@@ -1,12 +1,12 @@
 ### All in One Hacking tool For Hackers🥇
-![](https://img.shields.io/github/license/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
+![](https://img.shields.io/github/license/BI66IE619/AIO-Hak-Tool)
+![](https://img.shields.io/github/issues/BI66IE619/AIO-Hak-Tool)
+![](https://img.shields.io/github/issues-closed/BI66IE619/AIO-Hak-Tool)
 ![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
-![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
-![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+![](https://img.shields.io/github/forks/BI66IE619/AIO-Hak-Tool)
+![](https://img.shields.io/github/stars/BI66IE619/AIO-Hak-Tool)
+![](https://img.shields.io/github/last-commit/BI66IE619/AIO-Hak-Tool)
+[![HitCount](http://hits.dwyl.com/BI66IE619/AIO-Hak-Tool.svg)](http://hits.dwyl.com/BI66IE619/AIO-Hak-Tool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
@@ -274,7 +274,7 @@ Enter the options and continue.
 - Volumes are mounted in the container to persist data and can share files between the host and the container
 
 
-#### Thanks to original Author of the tools used in hackingtool
+#### Thanks to original Author of the tools used in AIO Hak Tool!
 
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
@@ -285,10 +285,9 @@ Enter the options and continue.
 - [ ] Want to do automatic 
 
 ## Social Media :mailbox_with_no_mail:
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/BI66IE619/)](https://github.com/BI66IE619/)
 ##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![BI66IE619's github stats](https://github-readme-stats.vercel.app/api?username=BI66IE619&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Don't Forgot to share with Your Friends 
 ### The new Update get will soon stay updated
